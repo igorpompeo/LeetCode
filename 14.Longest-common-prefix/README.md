@@ -6,7 +6,7 @@ If there is no common prefix, return an empty string ```""```.
 <strong>Input:</strong> strs = ["flower","flow","flight"]
 <strong>Output:</strong> "fl"
 </pre>
-</br>
+
 <strong>Example 2:</strong></br>
 <pre>
 <strong>Input:</strong> strs = ["dog","racecar","car"]
